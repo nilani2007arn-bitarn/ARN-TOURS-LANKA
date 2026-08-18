@@ -1,0 +1,6 @@
+{
+  "name": "ARN TOURS LANKA",
+  "description": "Sri Lanka's premium concierge and luxury travel agency. Bespoke itineraries, heritage tours, hill country wellness retreats, beach vacations, and private chauffeur experiences across the Pearl of the Indian Ocean.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
